@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">شوكُورو يَسُو</string>
+    <string name="language">لغة</string>
+    <string name="versions">النسخ</string>
+    <string name="choose_your_preferred_version">اختر نسختك المفضلة</string>
+    <string name="type_your_note_here_and_click_save">اكتب ملاحظتك هنا وانقر على حفظ...</string>
+    <string name="save">حفظ</string>
+    <string name="clear">مسح</string>
+    <string name="take_a_note">دوّن ملاحظة!</string>
+    <string name="click_on_enter_note_to_type_notes">انقر على "إدخال ملاحظة" لكتابة ملاحظاتك...</string>
+    <string name="enter_note">إدخال ملاحظة</string>
+    <string name="song_books">كتب الأغاني</string>
+    <string name="calender_notepad">التقويم/المفكرة</string>
+    <string name="edit_note">تحرير الملاحظة</string>
+    <string name="no_notes_found_to_be_saved">لا توجد ملاحظات لحفظها</string>
+    <string name="note_saved">تم حفظ الملاحظة</string>
+    <string name="no_note_saved_to_be_cleared">لا يوجد نص لمسحه</string>
+    <string name="clearing_note">جاري مسح الملاحظة</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="shukuru_yesu">شوكُورو يَسُو</string>
+    <string name="help_and_support">المساعدة والدعم</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="share_app">مشاركة التطبيق</string>
+    <string name="about">حول التطبيق</string>
+    <string name="exit_app">خروج من التطبيق</string>
+    <string name="stayed_blessed_see_you">دمتم في بركة، وإلى اللقاء...</string>
+
+
+    <string name="about_title">عن شوكُورو يَسُو</string>
+
+
+    <string name="about_description">
+شوكُورو يَسُو هو تطبيق محمول صُمم بعناية لدعم التأمل اليومي، والتنظيم، والوصول إلى الموارد الروحية. يوفر التطبيق مساحة بسيطة ولكنها هادفة حيث يمكن للمستخدمين كتابة ملاحظات شخصية، وتتبع التواريخ المهمة باستخدام التقويم، والوصول إلى كتب الأغاني بسهولة في مكان واحد.
+
+هدفه هو جعل التنظيم اليومي أسهل مع العمل أيضاً كرفيق مفيد للحظات الإلهام، والتخطيط، والتأمل الروحي.
+</string>
+
+    <string name="about_developer_title">المطور</string>
+
+    <string name="app_developer">ليفي واني سكوباس روبرت</string>
+
+
+    <string name="about_developer_text">
+تم تطوير شوكُورو يَسُو بواسطة ليفي واني سكوباس روبرت كجزء من رحلة شخصية في تطوير الأندرويد والسعي لبناء أدوات رقمية هادفة يمكنها خدمة وإلهام الآخرين.
+</string>
+
+    <string name="about_guide_title">كيفية استخدام التطبيق</string>
+
+    <string name="app_version">الإصدار١.٠</string>
+
+    <string name="back_to_home">العودة إلى الرئيسية</string>
+
+
+    <string name="song_book">كتاب الترانيم:</string>
+    <string name="song_use">
+       للوصول إلى الترانيم، افتح قسم كتاب الترانيم واختر نسخة الترانيم المفضلة لديك. بمجرد الاختيار، يمكنك تصفح الترانيم المتاحة وقراءتها. لا يفتح التطبيق الكتب بشكل مباشر، ولكن بمساعدة قارئات ملفات خارجية.</string>
+
+    <string name="calender">التقويم:</string>
+    <string name="calender_use">
+       استخدم التقويم لتنظيم ملاحظاتك حسب التاريخ. ببساطة، اختر أي يوم من التقويم — بما في ذلك المواعيد المستقبلية — وأضف ملاحظاتك. وعند حلول ذلك التاريخ، ستجد ملاحظاتك محفوظة وجاهزة للمراجعة أو التعديل.</string>
+
+    <string name="notepad">المفكرة:</string>
+    <string name="notepad_use">
+      لإنشاء ملاحظة، افتح قسم المفكرة واضغط على زر إدخال ملاحظة لبدء الكتابة. بعد كتابة ملاحظتك، اضغط على حفظ لتخزينها للرجوع إليها لاحقاً. إذا كنت تريد إزالة ملاحظة، يمكنك استخدام خيار مسح. تتيح لك ميزة المعاينة مراجعة ملاحظتك المحفوظة للتاريخ المحدد بسرعة.</string>
+
+
+
+    <string name="privacy_title">سياسة الخصوصية</string>
+
+    <string name="privacy_content">
+يحترم تطبيق شوكُورو يَسُو خصوصيتك ويلتزم بحماية معلوماتك الشخصية.</string>
+
+    <string name="data_collection">جمع البيانات:</string>
+    <string name="this_application_does_not_collect_store_or_share_any_personal_data_from_users_all_notes_and_information_created_within_the_application_are_stored_locally_on_your_device">لا يقوم هذا التطبيق بجمع أو تخزين أو مشاركة أي بيانات شخصية من المستخدمين. يتم تخزين جميع الملاحظات والمعلومات التي يتم إنشاؤها داخل التطبيق محلياً على جهازك.</string>
+    <string name="data_usage">استخدام البيانات:</string>
+    <string name="any_information_entered_into_the_application_such_as_notes_is_used_solely_for_the_purpose_of_providing_the_app_s_features_and_remains_private_to_the_user">أي معلومات يتم إدخالها في التطبيق، مثل الملاحظات، تُستخدم فقط لغرض توفير ميزات التطبيق وتظل خصوصية للمستخدم.</string>
+    <string name="third_party_services">خدمات الطرف الثالث:</string>
+    <string name="this_application_does_not_use_third_party_services_that_collect_personal_information">لا يستخدم هذا التطبيق خدمات طرف ثالث تقوم بجمع المعلومات الشخصية.</string>
+    <string name="your_data_remains_on_your_device_and_is_not_transmitted_to_any_external_servers">تظل بياناتك على جهازك ولا يتم نقلها إلى أي خوادم خارجية.</string>
+    <string name="user_responsibility">مسؤولية المستخدم:</string>
+    <string name="security">الأمن:</string>
+    <string name="users_are_responsible_for_managing_and_protecting_their_own_device_and_the_information_stored_within_the_application">يتحمل المستخدمون مسؤولية إدارة وحماية أجهزتهم الخاصة والمعلومات المخزنة داخل التطبيق.</string>
+    <string name="by_using_this_application_you_agree_to_this_privacy_policy">باستخدامك لهذا التطبيق، فإنك توافق على سياسة الخصوصية هذه.</string>
+
+
+</resources>

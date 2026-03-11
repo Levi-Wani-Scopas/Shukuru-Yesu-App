@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Shukuru Yesu</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="language">Language</string>
+    <string name="versions">Versions</string>
+    <string name="choose_your_preferred_version">Choose your preferred version</string>
+    <string name="type_your_note_here_and_click_save">Type your note here and click save...</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="take_a_note">Take a note!</string>
+    <string name="click_on_enter_note_to_type_notes">Click on Enter Note to type notes...</string>
+    <string name="enter_note">Enter Note</string>
+    <string name="song_books">Song Books</string>
+    <string name="calender_notepad">Calender/Notepad</string>
+    <string name="edit_note">Edit note</string>
+    <string name="no_notes_found_to_be_saved">No notes found to be saved</string>
+    <string name="note_saved">Note saved</string>
+    <string name="no_note_saved_to_be_cleared">No note saved to be cleared</string>
+    <string name="clearing_note">Clearing note</string>
+    <string name="select_language">Select Language</string>
+    <string name="shukuru_yesu">Shukuru Yesu</string>
+    <string name="help_and_support">Help and Support</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="share_app">Share App</string>
+    <string name="about">About</string>
+    <string name="exit_app">Exit App</string>
+    <string name="stayed_blessed_see_you">Stayed Blessed, See you...</string>
+
+
+    <string name="about_title">About Shukuru Yesu</string>
+
+    <string name="about_description">
+Shukuru Yesu is a thoughtfully designed mobile application created to support
+daily reflection, organization, and access to spiritual resources. The app
+provides a simple yet meaningful space where users can write personal notes,
+track important dates using the calendar, and access songbooks conveniently
+in one place.
+
+Its goal is to make everyday organization easier while also serving as a
+helpful companion for moments of inspiration, planning, and spiritual
+reflection.
+</string>
+
+    <string name="about_developer_title">Developer</string>
+
+    <string name="app_developer">Levi Wani Scopas Robert</string>
+
+    <string name="about_developer_text">
+Shukuru Yesu was developed by Levi Wani Scopas Robert as part of a personal
+journey in Android development and the pursuit of building meaningful digital
+tools that can serve and inspire others.
+</string>
+
+    <string name="about_guide_title">How to Use the App</string>
+
+
+    <string name="app_version">Version 1.0</string>
+
+    <string name="back_to_home">Back to Home</string>
+
+
+    <string name="song_book">Song Book:</string>
+    <string name="song_use">
+        To access songs, open the Song Books section and choose your preferred song version.
+        Once selected, you can browse through the available songs and read them.
+        The app doesn\'t open the books directly but with the help of external readers.</string>
+
+    <string name="calender">Calender:</string>
+    <string name="calender_use">
+        Use the calendar to organize notes by specific dates.
+        Simply select a date on the calendar — including future dates — and add your notes.
+        When that date arrives, the saved note will still be available for review and editing.</string>
+
+    <string name="notepad">Notepad:</string>
+    <string name="notepad_use">
+        To create a note, open the Notepad section and tap the Enter Note button to begin typing your note.
+        After writing your note, tap Save to store it for later reference.
+        If you want to remove a note, you can use the Clear option.
+        The Preview feature allows you to quickly review your saved note for the selected date.</string>
+
+
+
+
+    <string name="privacy_title">Privacy Policy</string>
+
+    <string name="privacy_content">
+Shukuru Yesu application respects your privacy and is committed to protecting
+        your personal information.</string>
+
+    <string name="data_collection">Data Collection:</string>
+    <string name="this_application_does_not_collect_store_or_share_any_personal_data_from_users_all_notes_and_information_created_within_the_application_are_stored_locally_on_your_device">This application does not collect, store, or share any personal data from users. All notes and information created within the application are stored locally on your device.</string>
+    <string name="data_usage">Data Usage:</string>
+    <string name="any_information_entered_into_the_application_such_as_notes_is_used_solely_for_the_purpose_of_providing_the_app_s_features_and_remains_private_to_the_user">Any information entered into the application, such as notes, is used solely for the purpose of providing the app’s features and remains private to the user.</string>
+    <string name="third_party_services">Third-Party Services:</string>
+    <string name="this_application_does_not_use_third_party_services_that_collect_personal_information">This application does not use third-party services that collect personal information.</string>
+    <string name="your_data_remains_on_your_device_and_is_not_transmitted_to_any_external_servers">Your data remains on your device and is not transmitted to any external servers.</string>
+    <string name="user_responsibility">User Responsibility:</string>
+    <string name="security">Security:</string>
+    <string name="users_are_responsible_for_managing_and_protecting_their_own_device_and_the_information_stored_within_the_application">Users are responsible for managing and protecting their own device and the information stored within the application.</string>
+    <string name="by_using_this_application_you_agree_to_this_privacy_policy">By using this application, you agree to this privacy policy.</string>
+
+
+</resources>

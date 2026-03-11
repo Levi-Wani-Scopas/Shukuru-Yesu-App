@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_language"
+        android:title="@string/language"
+        android:icon="@drawable/ic_language"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/nav_privacy"
+        android:title="@string/privacy_policy"
+        android:icon="@drawable/privacy_policy_24"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/nav_aboutUs"
+        android:title="@string/about"
+        android:icon="@drawable/about_24"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/nav_help"
+        android:title="@string/help_and_support"
+        android:icon="@drawable/help_24"
+        app:showAsAction="always"
+        />
+
+
+
+    <item
+        android:id="@+id/nav_shareApp"
+        android:title="@string/share_app"
+        android:icon="@drawable/share_24"
+        app:showAsAction="always"
+        />
+
+
+
+    <item
+        />
+    <item
+        />
+
+
+    <group android:id="@+id/group_bottom">
+        <item
+            android:id="@+id/nav_exit"
+            android:title="@string/exit_app"
+            android:icon="@drawable/exit_to_app_24"
+            app:showAsAction="always"
+            />
+    </group>
+
+</menu>

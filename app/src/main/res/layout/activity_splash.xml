@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:background="#29415B">
+
+    <!-- Top Guideline -->
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topGuide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintGuide_percent="0.30"
+        android:orientation="horizontal"/>
+
+    <!-- Image -->
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/splashPic"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/splash1"
+        app:layout_constraintTop_toBottomOf="@id/topGuide"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintWidth_percent="0.75"
+        app:layout_constraintDimensionRatio="1:1"/>
+
+    <TextView
+        android:id="@+id/textEnglish"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Praise and Worship"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:gravity="center"
+
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="16sp"
+        android:autoSizeMaxTextSize="32sp"
+        android:autoSizeStepGranularity="2sp"
+
+        android:alpha="0"
+
+        app:layout_constraintTop_toBottomOf="@id/splashPic"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintWidth_percent="0.8"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/textArabic"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="التسبيح والعبادة"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:gravity="center"
+
+        android:textDirection="locale"
+        android:layoutDirection="locale"
+
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="16sp"
+        android:autoSizeMaxTextSize="32sp"
+        android:autoSizeStepGranularity="2sp"
+
+        android:alpha="0"
+
+        app:layout_constraintTop_toBottomOf="@id/textEnglish"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintWidth_percent="0.8"
+        android:layout_marginTop="8dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
