@@ -48,11 +48,12 @@ An Android developer passionate about creating meaningful digital tools that sim
 This app was built as part of a personal journey in Android development.
 
 🛠 Tech Stack
-Java (Android Studio)
-XML Layouts
-Fragments + Navigation Drawer
-PDF Asset Handling
-Multi-Language Support
+
+Java (Android Studio),
+XML Layouts,
+Fragments + Navigation Drawer,
+PDF Asset Handling,
+Multi-Language Support,
 Git & GitHub Version Control
 
 
