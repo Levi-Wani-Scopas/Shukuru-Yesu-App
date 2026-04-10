@@ -4,6 +4,7 @@ A simple and user-friendly Christian utility app that provides quick access to t
 
 
 ✨ Features
+
 🔹 📖 Songbook (PDF Viewer)
 English & Arabic versions
 Offline, fast access
