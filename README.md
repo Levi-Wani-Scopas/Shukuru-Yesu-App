@@ -41,6 +41,7 @@ Click below to download the latest version:
 
 
 👤 Developer
+
 **Levi Wani Scopas Robert**
 An Android developer passionate about creating meaningful digital tools that simplify everyday life and inspire Christian worship.
 
