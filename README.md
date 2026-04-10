@@ -1,4 +1,4 @@
-📘 Shukuru Yesu — Android Application
+📘 Shukuru Yesu Android Application
 
 A simple and user-friendly Christian utility app that provides quick access to translated song lyrics, a built-in songbook (PDF), calendar-based note recording, and a lightweight note editor all wrapped in a clean and responsive interface supporting English and Arabic.
 
