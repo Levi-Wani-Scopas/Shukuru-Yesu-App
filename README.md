@@ -59,32 +59,5 @@ Git & GitHub Version Control
 
 📸 Screenshots
 
-Song book Arabic
-![Arabic File Img](https://github.com/user-attachments/assets/aa009072-d357-4abf-8cdf-f500b7bf017e)
-
-Song book English
-![English File Img](https://github.com/user-attachments/assets/d944e188-34c1-4aa0-99f4-ea7e5c97d0f2)
-
-Language Selection
-![Language Selection](https://github.com/user-attachments/assets/69204b23-b1d7-4f44-af7d-ae75349ef5a3)
-
-Note Editor
-![Note Editor](https://github.com/user-attachments/assets/db2168bd-6331-46e0-b34b-83f541ef3411)
-
-Calender & Note Preview
-![Calender](https://github.com/user-attachments/assets/ba9742f9-438b-4fb7-8905-35b927aac595)
-
-Drawer
-![Drawer](https://github.com/user-attachments/assets/0a998e41-a8c7-492f-b747-cf20c1c6a4ee)
-
-Dashboard
-![Dashboard](https://github.com/user-attachments/assets/32fbcc0c-a107-4dcd-afe5-c95eb8b4afae)
-
-Splashscreen
-![Splashscreen](https://github.com/user-attachments/assets/059ab74b-b7ba-4e29-b617-9bb4515e401d)
-
-
-
-
 
 
