@@ -62,31 +62,23 @@ Git & GitHub Version Control
 ## 📸 Screenshots
 
 
-Splashscreen 
+
 <p align="center">
   <img src="screenshots/Splashscreen.jpeg" width="150"/>
    <img src="screenshots/Dashboard.jpeg" width="150"/>
-</p>
-
-
-Calender & Note Preview
-<p align="center">
   <img src="screenshots/Calender.jpeg" width="150"/>
 </p>
 
-Note Editor
+
+
+
 <p align="center">
   <img src="screenshots/Note Editor.jpeg" width="150"/>
-</p>
-
- Language Selection
-<p align="center">
   <img src="screenshots/Language Selection.jpeg" width="150"/>
-</p>
-
-About
-<p align="center">
   <img src="screenshots/About Page.jpeg" width="150"/>
 </p>
+
+
+
 
 
