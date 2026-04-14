@@ -65,12 +65,9 @@ Git & GitHub Version Control
 Splashscreen 
 <p align="center">
   <img src="screenshots/Splashscreen.jpeg" width="150"/>
+   <img src="screenshots/Dashboard.jpeg" width="150"/>
 </p>
 
- Dashboard
-<p align="center">
-  <img src="screenshots/Dashboard.jpeg" width="150"/>
-</p>
 
 Calender & Note Preview
 <p align="center">
