@@ -64,18 +64,18 @@ Git & GitHub Version Control
 
 
 <p align="center">
-  <img src="screenshots/Splashscreen.jpeg" width="150"/>
-   <img src="screenshots/Dashboard.jpeg" width="150"/>
-  <img src="screenshots/Calender.jpeg" width="150"/>
+  <img src="screenshots/Splashscreen.jpeg" width="250"/>
+   <img src="screenshots/Dashboard.jpeg" width="250"/>
+  <img src="screenshots/Calender.jpeg" width="250"/>
 </p>
 
 
 
 
 <p align="center">
-  <img src="screenshots/Note Editor.jpeg" width="150"/>
-  <img src="screenshots/Language Selection.jpeg" width="150"/>
-  <img src="screenshots/About Page.jpeg" width="150"/>
+  <img src="screenshots/Note Editor.jpeg" width="250"/>
+  <img src="screenshots/Language Selection.jpeg" width="250"/>
+  <img src="screenshots/About Page.jpeg" width="250"/>
 </p>
 
 
