@@ -62,9 +62,9 @@ Git & GitHub Version Control
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/drawer" width="250"/>
-  <img src="screenshots/Dashboard" width="250"/>
-  <img src="screenshots/Language Selection" width="250"/>
+  <img src="screenshots/About Page.jpeg" width="250"/>
+  <img src="screenshots/Dashboard.jpeg" width="250"/>
+  <img src="screenshots/Language Selection.jpeg" width="250"/>
 </p>
 
 
