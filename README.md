@@ -4,7 +4,7 @@ A simple and user-friendly Christian utility app that provides quick access to t
 
 ## ✨  Features
 
-##### 🔹 📖 Songbook (PDF Viewer)
+#### 🔹 📖 Songbook (PDF Viewer)
 English & Arabic versions
 Offline, fast access
 Opens with any installed PDF viewer
@@ -16,19 +16,19 @@ Save, edit, or review your entries
 Helps track worship activities, events, or personal records
 
 
-### 🔹 📝 Note Pad
+#### 🔹 📝 Note Pad
 Simple text editor
 Save & clear functions
 Preview notes before saving
 
 
-### 🔹 🌐 Multi-Language Support
+#### 🔹 🌐 Multi-Language Support
 English
 Arabic
 Switch languages inside the app instantly
 
 
-### 🔹 📄 About & Privacy Policy
+#### 🔹 📄 About & Privacy Policy
 Clear information about the app
 Internal privacy policy page
 
