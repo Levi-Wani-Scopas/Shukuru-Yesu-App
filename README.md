@@ -1,9 +1,9 @@
-📘 Shukuru Yesu Android Application
+📘 # Shukuru Yesu Android Application
 
 A simple and user-friendly Christian utility app that provides quick access to translated song lyrics, a built-in songbook (PDF), calendar-based note recording, and a lightweight note editor all wrapped in a clean and responsive interface supporting English and Arabic.
 
 
-✨ Features
+✨ ## Features
 
 🔹 📖 Songbook (PDF Viewer)
 English & Arabic versions
@@ -35,21 +35,21 @@ Internal privacy policy page
 
 
 
-📥 **Download the App**
+📥 ## **Download the App**
 
 **Click below to download the latest version:**
 
 [Download apk](https://github.com/Levi-Wani-Scopas/Shukuru-Yesu-App/releases/download/v1.0/ShukuruYesu-v1.0.apk)
 
 
-👤 Developer
+👤 ## Developer
 
 **Levi Wani Scopas Robert**
 An Android developer passionate about creating meaningful digital tools that simplify everyday life and inspire Christian worship.
 
 This app was built as part of a personal journey in Android development.
 
-🛠 Tech Stack
+🛠 ## Tech Stack
 
 Java (Android Studio),
 XML Layouts,
@@ -57,8 +57,6 @@ Fragments + Navigation Drawer,
 PDF Asset Handling,
 Multi-Language Support,
 Git & GitHub Version Control
-
-📸 Screenshots
 
 ## 📸 Screenshots
 
