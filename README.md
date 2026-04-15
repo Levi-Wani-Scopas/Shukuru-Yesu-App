@@ -4,13 +4,13 @@ A simple and user-friendly Christian utility app that provides quick access to t
 
 ## ✨  Features
 
-### 🔹 📖 Songbook (PDF Viewer)
+##### 🔹 📖 Songbook (PDF Viewer)
 English & Arabic versions
 Offline, fast access
 Opens with any installed PDF viewer
 
 
-### 🔹 🗓 Calendar Notes
+#### 🔹 🗓 Calendar Notes
 Tap on any date to record notes
 Save, edit, or review your entries
 Helps track worship activities, events, or personal records
