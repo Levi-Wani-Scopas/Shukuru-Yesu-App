@@ -41,6 +41,7 @@ Internal privacy policy page
 [Download apk](https://github.com/Levi-Wani-Scopas/Shukuru-Yesu-App/releases/download/v1.0/ShukuruYesu-v1.0.apk)
 
 
+
 ## 👤  Developer
 
 ## **Levi Wani Scopas Robert**
