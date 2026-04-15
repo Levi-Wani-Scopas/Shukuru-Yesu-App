@@ -34,6 +34,7 @@ Clear information about the app
 Internal privacy policy page
 
 
+
 📥 **Download the App**
 
 **Click below to download the latest version:**
