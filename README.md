@@ -34,7 +34,7 @@ Internal privacy policy page
 
 **Click below to download the latest version:**
 
-[Download apk](https://github.com/Levi-Wani-Scopas/Shukuru-Yesu-App/releases/download/v1.0/ShukuruYesu-v1.0.apk)
+[Download APK](https://github.com/Levi-Wani-Scopas/Shukuru-Yesu-App/releases/download/v1.0/ShukuruYesu-v1.0.apk)
 
 
 ## 👤  Developer
